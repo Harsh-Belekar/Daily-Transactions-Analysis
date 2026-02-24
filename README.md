@@ -4,7 +4,7 @@ A **Data Analysis project** focused on analyzing daily household financial trans
 
 This project demonstrates **end-to-end data analysis**, from data cleaning and exploratory analysis to business insights and recommendations.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
 
 ---
 
