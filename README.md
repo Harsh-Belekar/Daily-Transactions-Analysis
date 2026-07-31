@@ -31,11 +31,19 @@ This project demonstrates **end-to-end data analysis**, from data cleaning and e
 ## 📂 Project Structure
 
 ```
-├── Daily Transactions Analysis project Report.pdf
-├── Daily_Household_Transactions.csv
-├── Daily_Transactions_Analysis.ipynb
-├── README.md
-├── requirements.txt
+├── README.md 
+│
+├── requirements.txt 
+│
+├── Data/ 
+│    └── Daily_Household_Transactions.csv
+│
+├── Docs/
+│    └── Daily Transactions Analysis project Report.pdf
+│
+├── Notebook/
+│    └── Daily_Transactions_Analysis.ipynb
+│
 └── images/
     ├── 01_Transaction_Type_Distribution.png
     ├── 02_Total_Amount_by_Transaction_Type.png
